@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🌐 I’m currently working in automation of cloud products\
+🌐 I’m currently working in automation of cloud products.\
 \
 💻 Exploring microservices development with Python and Go.\
 \
-📚 My education: HSE CS AMI '2025
+📚 My education: HSE CS AMI '2025.
 
 ## Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
