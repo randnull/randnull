@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌐 I’m currently working in automation of cloud products.\
+🌐 I currently work in SRE. (ex. Cloud automation)\
 \
 💻 Exploring microservices development with Python and Go.\
 \
