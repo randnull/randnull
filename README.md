@@ -2,9 +2,11 @@
 
 🌐 I currently work in SRE. (ex. Cloud automation)\
 \
-💻 Exploring microservices development with Python and Go.\
+💻 Exploring DS and development with Python and Go.\
 \
-📚 My education: HSE CS AMI '2025.
+📚 My education: 
+- HSE CS AMI '2025
+- Master HSE CS DS '2027
 
 ## Languages & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
